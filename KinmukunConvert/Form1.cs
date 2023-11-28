@@ -208,6 +208,7 @@ namespace KinmukunConvert
         {
             
 
+
             // 現在の日時を取得します
             DateTime dNow = System.DateTime.Now;
 
